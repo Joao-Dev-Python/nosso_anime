@@ -14,13 +14,13 @@ api = {"anime": [
         "episodios" : [{
             "ep" : "Episódio 01",
 
-          "video": "https://docs.google.com/uc?export=download&id=1M3gFu1UQBQ-HTOJImSR5QndJ2I35LdH"
+          "video": "https://docs.google.com/uc?export=download&id=1M3gFu1UQBQ-HTOJImSR5QndJ2I35LdHh"
         },
 
 
         {
             "ep" : "Episódio 02",
-          "video": "http://www.branimes.com/videozin/video-play.mp4/?contentId=ajJqektvK0hEQmh1eHNLNDVYUWdVdWxXdEs3bEZOSzJueFlCZFozYzlpRT0="
+          "video": "https://docs.google.com/uc?export=download&id=1M5YJ7ovuGrxszabJ-TTWoKI0V6oEfg5t"
         }
 
     ,
