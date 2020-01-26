@@ -36,7 +36,7 @@ api = {"anime": [
 
         {
             "ep" : "Episódio 04",
-          "video": "http://www.branimes.com/videozin/video-play.mp4/?contentId=QXVkdnlkdGxaRGxKdEZMU0VHRnQ3dWxXdEs3bEZOSzJueFlCZFozYzlpRT0="
+          "video": "https://docs.google.com/uc?export=download&id=1MDVPTM0vJgPFgCmIvPrlCm4NqFcgcxo0"
         }
 
     ,
@@ -44,7 +44,7 @@ api = {"anime": [
 
         {
             "ep" : "Episódio 05",
-          "video": "http://www.branimes.com/videozin/video-play.mp4/?contentId=aDVEWVFXa2psQ2ZvcHArSXJEUXQ0ZWxXdEs3bEZOSzJueFlCZFozYzlpRT0="
+          "video": "https://docs.google.com/uc?export=download&id=1MHknxRBbgWoDk16O9atecNlsdEi0wKJT"
         }
 
     ,
