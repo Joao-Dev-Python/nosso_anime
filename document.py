@@ -14,7 +14,7 @@ api = {"anime": [
         "episodios" : [{
             "ep" : "Episódio 01",
 
-          "video": "https://docs.google.com/uc?export=download&id=1M3gFu1UQBQ-HTOJImSR5QndJ2I35LdHh"
+          "video": "https://docs.google.com/uc?export=download&id=1ZpEegDLZC4NUHzbzU4UeDf05vz9q5rtX"
         },
 
 
