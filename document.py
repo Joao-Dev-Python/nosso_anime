@@ -28,7 +28,7 @@ api = {"anime": [
 
         {
             "ep" : "Episódio 03",
-          "video": "http://www.branimes.com/videozin/video-play.mp4/?contentId=d0tzbHg5TUhGaWZrV0VqY2t0Tk5RdWxXdEs3bEZOSzJueFlCZFozYzlpRT0="
+          "video": "https://docs.google.com/uc?export=download&id=1MBy280FGVqM6LuFQbVeY3Vlq71AWNNdT"
         }
 
     ,
