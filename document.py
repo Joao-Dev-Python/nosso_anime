@@ -1,7 +1,7 @@
 api = {"anime": [
 
         {   "titulo" :  "fullmetal alchemist",
-            "image":"https://img.elo7.com.br/product/main/1EC54BB/big-poster-do-anime-fullmetal-alchemist-90x-0-cm-lo001-fullmetal-alchemist.jpg",
+            "image":"https://docs.google.com/uc?export=download&id=1uDbYkyy_l_HbAa0es-U7OwygwvfAlt_6",
             "episodios" : [{
                 "ep" : "Episódio 01",
                 "video" : "http://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"},
@@ -9,7 +9,7 @@ api = {"anime": [
                            "video": "https://docs.google.com/uc?export=download&id=1ZpEegDLZC4NUHzbzU4UeDf05vz9q5rtX"}]
         },
     {"titulo" :  "Black Clover",
-      "image" :"https://img1.ak.crunchyroll.com/i/spire2/045567fe243109fd4af39bfc4230e9291559150972_full.jpg" ,
+      "image" :"https://docs.google.com/uc?export=download&id=1GcIglWU6eLILumuvbo5vU3SLcH12h4Mk" ,
 
         "episodios" : [{
             "ep" : "Episódio 01",
