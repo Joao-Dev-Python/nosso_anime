@@ -4,10 +4,94 @@ api = {"anime": [
             "image":"https://docs.google.com/uc?export=download&id=1uDbYkyy_l_HbAa0es-U7OwygwvfAlt_6",
             "episodios" : [{
                 "ep" : "Episódio 01",
-                "video" : "http://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4"},
-                           {"ep" : "2",
-                           "video": "https://docs.google.com/uc?export=download&id=1ZpEegDLZC4NUHzbzU4UeDf05vz9q5rtX"}]
+                "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/1.mp4"},
+               {"ep" :"Episódio 02",
+                           "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/2.mp4"},
+               {
+                   "ep" : "Episódio 03",
+                   "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/3.mp4"},
+                  {"ep" :"Episódio 04",
+                              "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/4.mp4"},
+{
+    "ep" : "Episódio 05",
+    "video" :"http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/5.mp4"},
+   {"ep" :"Episódio 06",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/6.mp4"},
+{
+    "ep" : "Episódio 07",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/7.mp4"},
+   {"ep" :"Episódio 08",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/8.mp4"},
+{
+    "ep" : "Episódio 09",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/9.mp4"},
+   {"ep" :"Episódio 10",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/10.mp4"},
+{
+    "ep" : "Episódio 11",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/11.mp4"},
+   {"ep" :"Episódio 12",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/12.mp4"},
+{
+    "ep" : "Episódio 13",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/13.mp4"},
+   {"ep" :"Episódio 14",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/14.mp4"},
+{
+    "ep" : "Episódio 15",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/15.mp4"},
+   {"ep" :"Episódio 16",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/16.mp4"},
+{
+    "ep" : "Episódio 17",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/17.mp4"},
+   {"ep" :"Episódio 18",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/18.mp4"},
+{
+    "ep" : "Episódio 19",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/19.mp4"},
+   {"ep" :"Episódio 20",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/20.mp4"},
+{
+    "ep" : "Episódio 21",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/21.mp4"},
+   {"ep" :"Episódio 22",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/22.mp4"},
+{
+    "ep" : "Episódio 23",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/23.mp4"},
+   {"ep" :"Episódio 24",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/24.mp4"},
+{
+    "ep" : "Episódio 25",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/25.mp4"},
+   {"ep" :"Episódio 26",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/26.mp4"},
+{
+    "ep" : "Episódio 27",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/27.mp4"},
+   {"ep" :"Episódio 28",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/28.mp4"},
+{
+    "ep" : "Episódio 29",
+    "video" : "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/29.mp4"},
+   {"ep" :"Episódio 30",
+               "video": "http://s2.newsvbr.xyz/videos/fullmetal-achemist/dub/30.mp4"}
+
+
+
+
+
+
+               ]
         },
+
+
+
+
+
+
+
     {"titulo" :  "Black Clover",
       "image" :"https://docs.google.com/uc?export=download&id=1GcIglWU6eLILumuvbo5vU3SLcH12h4Mk" ,
 
